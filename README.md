@@ -2,6 +2,8 @@
 
 # instabot.rb
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0d440467ca0b42908e79d324218446ff)](https://www.codacy.com/app/eVanilla/instabot.rb?utm_source=github.com&utm_medium=referral&utm_content=eVanilla/instabot.rb&utm_campaign=badger)
+
 An instagram bot works without instagram api, only needs your username and password.
 
 ![https://rubygems.org/gems/instabot](https://img.shields.io/gem/dt/instabot.svg?label=DOWNLOADS&style=for-the-badge) 
